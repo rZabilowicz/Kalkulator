@@ -1,1 +1,3 @@
 # Kalkulator
+
+Aplikacja graficzna WPF 
